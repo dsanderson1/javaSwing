@@ -1,7 +1,6 @@
 package com.javaswing;
 import java.sql.*;
 
-
 public class databaseConnection {
     String url = "jdbc:mysql://localhost:3306/additiontest?autoReconnect=true&useSSL=false";
     String username = "danny";
